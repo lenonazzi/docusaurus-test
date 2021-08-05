@@ -1,3 +1,5 @@
+![Travis CI](https://travis-ci.com/lenonazzi/docusaurus-test.svg?branch=master)
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
